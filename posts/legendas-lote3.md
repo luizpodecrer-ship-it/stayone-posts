@@ -7,3 +7,12 @@ Rodapé comum: "StayOne. Prático, Seguro e Moderno." + "Conheça: stayone.com.b
 - 16/11 11h Post post-painel.jpg: "Seu hotel em um só painel. 📊 / Follow-ups, propostas em aberto e eventos dos próximos 30 dias logo na primeira tela."
 - 17/11 11h Carrossel carrossel-financeiro-1..5.jpg: "O que falta receber? 💰 / Parcelas, vencimentos e pagamentos de cada contrato, claros do início ao fim."
 - 18/11 19h Reel reel-revise-contrato: "Revise o contrato antes de enviar. ✍️ / Dados do evento preenchidos e revisão antes do envio, com o contrato registrado no sistema."
+
+# Legendas aprovadas - Lote 4 (19 a 25/11) - agendar apenas após teste de 12/10
+- 19/11 11h Post post-dia-do-evento.jpg: "No dia do evento, sem correria. 🚀 / Ordem de serviço emitida, equipe avisada e um responsável definido para cada evento."
+- 20/11 11h Carrossel carrossel-proposta-1..5.jpg: "Proposta pronta em minutos. 📄 / Escolha o evento, inclua os itens e envie ao cliente por e-mail ou WhatsApp."
+- 21/11 19h Reel reel-eventos-do-mes: "Os eventos do mês, num olhar. 🗓️ / Datas, clientes e espaços de cada evento organizados na mesma tela."
+- 22/11 11h Post post-comercial.jpg: "Para quem vende eventos no hotel. 🤝 / Propostas e follow-ups acompanhados pelo time comercial, do rascunho à aprovação."
+- 23/11 11h Carrossel carrossel-gestor-1..5.jpg: "Visão do gestor: o que acompanhar. 📊 / Ocupação, receita mês a mês e ocupação por espaço em um só lugar."
+- 24/11 19h Reel reel-confraternizacoes: "Confraternizações chegando. Seu hotel está pronto? 🎉 / Cardápios, grupos e espaços organizados para receber as festas de fim de ano."
+- 25/11 11h Post post-fim-de-ano.jpg: "Fim de ano com a agenda organizada. 🎄 / Grupos, datas e apartamentos reservados acompanhados em um só lugar."
