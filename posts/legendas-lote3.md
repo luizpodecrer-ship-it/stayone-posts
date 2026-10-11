@@ -17,7 +17,7 @@ Rodapé comum: "StayOne. Prático, Seguro e Moderno." + "Conheça: stayone.com.b
 - 24/11 19h Reel reel-confraternizacoes: "Confraternizações chegando. Seu hotel está pronto? 🎉 / Cardápios, grupos e espaços organizados para receber as festas de fim de ano."
 - 25/11 11h Post post-fim-de-ano.jpg: "Fim de ano com a agenda organizada. 🎄 / Grupos, datas e apartamentos reservados acompanhados em um só lugar."
 
-# Legendas - Lote 5 (26 a 30/11) - aguardando aprovação; agendar apenas após teste de 12/10
+# Legendas - Lote 5 (26 a 30/11) - aprovadas; agendar apenas após teste de 12/10
 - 26/11 11h Carrossel carrossel-documentos-1..5.jpg: "Os documentos do evento, sempre à mão. 📁 / Propostas, contratos e modelos reunidos em um só lugar, prontos para gerar e enviar."
 - 27/11 19h Reel reel-equipe-alinhada: "Equipe toda alinhada no mesmo sistema. 👥 / Perfis por área, atividade recente e a mesma base de informações para todo o time."
 - 28/11 11h Post post-veja-funcionando.jpg: "Veja o StayOne funcionando. 👀 / Conheça o painel, o calendário de espaços, as propostas e os contratos na prática."
